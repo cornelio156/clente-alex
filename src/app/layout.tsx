@@ -5,8 +5,8 @@ import { SiteConfigProvider } from "@/context/SiteConfigContext";
 import { PaymentProofProvider } from "@/context/PaymentProofContext";
 
 export const metadata: Metadata = {
-  title: "Alex 2.0 - Conteúdo Premium +18",
-  description: "Plataforma de conteúdo premium exclusivo para maiores de 18 anos. Acesso via Telegram.",
+  title: "content exclusive",
+  description: "Exclusive premium content. Access via Telegram.",
 };
 
 export default function RootLayout({
